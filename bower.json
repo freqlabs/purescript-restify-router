@@ -1,0 +1,26 @@
+{
+  "name": "purescript-restify-router",
+  "homepage": "https://github.com/freqlabs/purescript-restify-router",
+  "description": "PureScript wrapper around restify-router",
+  "license": "ISC",
+  "keywords": [
+    "purescript",
+    "restify",
+    "restify-router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/freqlabs/purescript-restify-router.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-restify": "^0.0.1"
+  }
+}
