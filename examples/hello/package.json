@@ -1,0 +1,9 @@
+{
+  "name": "purescript-restify-router-examples-hello",
+  "repository": "https://github.com/freqlabs/purescript-restify-router/tree/master/examples/hello",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^6.3.4",
+    "restify-router": "^0.5.0"
+  }
+}

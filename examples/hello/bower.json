@@ -1,0 +1,16 @@
+{
+  "name": "purescript-restify-router-examples-hello",
+  "homepage": "https://github.com/freqlabs/purescript-restify-router/tree/master/examples/hello",
+  "description": "Hello World example for purescript-restify-router",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-restify-router": "^0.0.1"
+  }
+}
